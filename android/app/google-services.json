@@ -1,0 +1,118 @@
+{
+  "project_info": {
+    "project_number": "1092181289527",
+    "project_id": "fluttercourseecommerce",
+    "storage_bucket": "fluttercourseecommerce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1092181289527:android:338ac12e717c0b594aedb2",
+        "android_client_info": {
+          "package_name": "com.example.fluttercourceecommerce2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1092181289527-6s0oj8vog4jhu2p7ucpi5iacnm8ij22k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD19sp_cM5rGZwnciZsdRZ_QPBIdvyisI4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1092181289527-6s0oj8vog4jhu2p7ucpi5iacnm8ij22k.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1092181289527-37humhahinsovq1dalksvesntdnuirks.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.untitled"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1092181289527:android:940f296cc6cca3f34aedb2",
+        "android_client_info": {
+          "package_name": "com.example.fluttercourseecommerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1092181289527-6s0oj8vog4jhu2p7ucpi5iacnm8ij22k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD19sp_cM5rGZwnciZsdRZ_QPBIdvyisI4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1092181289527-6s0oj8vog4jhu2p7ucpi5iacnm8ij22k.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1092181289527-37humhahinsovq1dalksvesntdnuirks.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.untitled"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1092181289527:android:07e7f2743a47b24e4aedb2",
+        "android_client_info": {
+          "package_name": "com.example.untitled"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1092181289527-6s0oj8vog4jhu2p7ucpi5iacnm8ij22k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD19sp_cM5rGZwnciZsdRZ_QPBIdvyisI4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1092181289527-6s0oj8vog4jhu2p7ucpi5iacnm8ij22k.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1092181289527-37humhahinsovq1dalksvesntdnuirks.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.untitled"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
